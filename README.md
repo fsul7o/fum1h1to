@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fum1h1to)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/fum1h1to">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fum1h1to&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/fum1h1to">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fum1h1to" />
+</a>
 
 <!--
 **fum1h1to/fum1h1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
