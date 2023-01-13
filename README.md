@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fum1h1to&count_private=true&layout=compact&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fum1h1to&count_private=true&theme=dark)
+![readme-stats](https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=fum1h1to&count_private=true&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=fum1h1to&count_private=true&theme=dark)
 
 <!--
 **fum1h1to/fum1h1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
