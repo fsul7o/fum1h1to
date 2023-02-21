@@ -1,5 +1,5 @@
 ### Hi there 👋
-![readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fum1h1to&count_private=true&layout=compact&theme=dark)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fum1h1to&count_private=true&theme=dark)
 
 <!--
