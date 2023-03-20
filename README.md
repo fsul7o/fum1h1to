@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fum1h1to&count_private=true&theme=dark)
-
 <!--
 **fum1h1to/fum1h1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
